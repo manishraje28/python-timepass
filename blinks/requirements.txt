@@ -1,0 +1,8 @@
+# For Full Version (Python 3.8-3.12)
+# opencv-python
+# mediapipe
+# numpy
+
+# For Simplified Version (Python 3.13+)
+opencv-python
+numpy
